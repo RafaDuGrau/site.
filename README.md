@@ -3,11 +3,18 @@
   <head>
       <meta charset="UTF-8">
       <title> nike revendedora</title>
+      
+      <style>
+       p {
+          text-align: center
+       }
+      
+      </style>
   </head>
   <body>
-      <h1>A Nike Revendedora</h1>
+      <h1 style="text-align: center">A Nike Revendedora</h1>
   
-      <p><strong>A Nike Revendedora</strong> é um novo projeto para estar mais perto de você, onde não tem as lojas da Nike. Vai ser aberto uma loja para         ficar   mais acessível para o consumidor.</p>
+      <p style="fonte-size: 20px"><strong>A Nike Revendedora</strong> é um novo projeto para estar mais perto de você, onde não tem as lojas da Nike. Vai ser aberto uma loja para ficar mais acessível para o consumidor.</p>
  
       <p>A loja estará aberta de segunda a sexta.</p>
  
